@@ -7,8 +7,8 @@ import paypalrestsdk
 import logging
 
 # Configuration
-st.set_page_config(page_title="One Stop Solution for Tourism", page_icon="🌐", layout="wide")
-st.title("🇮🇳 One Stop Solution for Tourism Dashboard")
+st.set_page_config(page_title="Tourismo AI Smart Travel Hospitality Hub", page_icon="🌐", layout="wide")
+st.title("🇮🇳 Tourismo AI Smart Travel Hospitality Hub")
 st.markdown("Discover popular destinations, interactive maps, curated travel packages, and book your dream hotels.")
 
 # Background CSS
